@@ -1,2 +1,2 @@
 # Puzzles-Hashi-LP
-Project for Logic in Programming 22/23
+Project for Logic in Programming 2022/2023
